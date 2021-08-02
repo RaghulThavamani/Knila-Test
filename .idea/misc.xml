@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/drawable/card_circle.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/drawable/ic_next.xml" value="0.175" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/drawable/text_box_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/layout/activity_main.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/layout/activity_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/layout/add_users_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/layout/chat_list_view.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/layout/chat_page_fragment.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/layout/fragment_maps.xml" value="0.12894736842105264" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/layout/fragment_maps2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tmz/AndroidStudioProjects/Ping Me/app/src/main/res/layout/users_list_fragment.xml" value="0.15885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

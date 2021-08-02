@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@+id/navigation_userList"
+    android:id="@+id/my_nav">
+
+    <fragment
+        android:id="@+id/navigation_userList"
+        android:name="com.example.editor.UI.UsersListFragment"
+        android:label="UserList"
+        tools:layout="@layout/users_list_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_addUsers"
+        android:name="com.example.editor.UI.AddUsersFragment"
+        android:label="AddUser"
+        tools:layout="@layout/add_users_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.example.editor.UI.MapsFragment"
+        android:label="Map"
+        tools:layout="@layout/fragment_maps" />
+
+
+</navigation>
